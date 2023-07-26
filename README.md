@@ -12,3 +12,6 @@ The following graphs are the part of structed data and knowledge maps:
 ![map3](https://github.com/ZhiLin0208/knowledge-map-diabetic-exercise1/blob/main/map3.png)
 
 And the code of the platform window is shown as "platform window.ipynb"
+
+The following graph is what the platform window looks like:
+![window](https://github.com/ZhiLin0208/knowledge-map-diabetic-exercise1/blob/main/window.png)
